@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: MeFamily
-Template URL: https://bootstrapmade.com/family-multipurpose-html-bootstrap-template-free/
+Template Name: Lonely
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
